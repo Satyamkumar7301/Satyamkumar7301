@@ -26,3 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumar7301&" alt="satyamkumar7301" /></p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumar7301&show_icons=true&locale=en" alt="satyamkumar7301" /></p>
+
+
+
