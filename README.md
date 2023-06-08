@@ -1,4 +1,4 @@
-![logo](https://www.nclouds.com/blog/wp-content/uploads/2019/10/banner-blog17o2019.jpg)
+![logo](https://wallpaperaccess.com/full/3959399.jpg)
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">Transforming Data into Value Empowering Decision-Makers with Insights</h3>
 
