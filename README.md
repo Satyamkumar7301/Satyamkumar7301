@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/C5616AQEh4B92ou2I_A/profile-displaybackgroundimage-shrink_200_800/0/1619842807880?e=2147483647&v=beta&t=v3FgEnqgaYVzyJAN1PvTDj6tHcIb8E7GHSk-VpiW4Gk)
+![logo](https://www.technologies-news.com/wp-content/uploads/2022/07/Common-FAQs-While-Considering-a-Career-in-Data-Analytics.jpg)
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">Transforming Data into Value Empowering Decision-Makers with Insights</h3>
 
